@@ -4,5 +4,6 @@
 ZCZC W00  3 L14 Fill out Course Registration Google Form
 ZCZC W00  5 L11 Create public repository "os212"
 ZCZC W00  5 L12 Start Week 0 log
+ZCZC W00  5 L01 Post introduction to First Contact forum in SCELE
 ZCZC W00 20 L09 Find out how to make GitHub Page
 ZCZC W00 40 L13 Make a simple GitHub Page
