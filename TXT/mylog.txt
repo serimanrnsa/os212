@@ -13,3 +13,5 @@ ZCZC W00 120 L90 Watch a movie on Netflix
 ZCZC W00  80 L15 Do the reading/watching assignment
 ZCZC W00  60 L81 Listen to Spotify while doing the next activity
 ZCZC W00  60 L06 Look up OS text book
+ZCZC W00  80 L02 Zoom
+ZCZC W00  30 L13 Scrap all html and replace with markdown
