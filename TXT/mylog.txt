@@ -1,10 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00   3 L14 Fill out Course Registration Google Form
-ZCZC W00   5 L11 Create public repository "os212"
-ZCZC W00   5 L12 Start Week 0 log
-ZCZC W00   5 L01 Post introduction to First Contact forum in SCELE
+ZCZC W00  03 L14 Fill out Course Registration Google Form
+ZCZC W00  05 L11 Create public repository "os212"
+ZCZC W00  05 L12 Start Week 0 log
+ZCZC W00  05 L01 Post introduction to First Contact forum in SCELE
 ZCZC W00  20 L09 Find out how to make GitHub Page
 ZCZC W00  40 L13 Make a simple GitHub Page
 ZCZC W00  30 L06 Read up on html
@@ -14,4 +14,7 @@ ZCZC W00  80 L15 Do the reading/watching assignment
 ZCZC W00  60 L81 Listen to Spotify while doing the next activity
 ZCZC W00  60 L06 Look up OS text book
 ZCZC W00  80 L02 Zoom
+ZCZC W00  20 L06 Read up on markdown
 ZCZC W00  30 L13 Scrap all html and replace with markdown
+ZCZC W00  60 L02 Zoom
+ZCZC W00 150 L15 Do more reading assignment
