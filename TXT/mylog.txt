@@ -18,3 +18,12 @@ ZCZC W00  20 L06 Read up on markdown
 ZCZC W00  30 L13 Scrap all html and replace with markdown
 ZCZC W00  60 L02 Zoom
 ZCZC W00 150 L15 Do more reading assignment
+ZCZC W01  05 L22 Quiz
+ZCZC W01  80 L02 Zoom
+ZCZC W01  60 L08 Asistensi
+ZCZC W01  40 L11 Install VirtualBox, PuTTY, and WinSCP
+ZCZC W01 300 L12 Install Debian Guest from scratch
+ZCZC W01 120 L12 Learn ways to login, shutdown, export, etc
+ZCZC W01  23 L13 Watch videos on regex and vi commands
+ZCZC W01 120 L14 Update debian, add packages, create some files
+ZCZC W01  60 L15 Generate RSA key, clone github, gitconfig
