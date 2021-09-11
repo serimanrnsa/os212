@@ -4,7 +4,9 @@ permalink: /LINKS/
 
 # LINKS
 [HOME](serimanrnsa.github.io/os212) | [LOG](os212/TXT/mylog.txt) | [GITHUB](https://github.com/serimanrnsa/os212)
-___
+
+---
+
 ### I find these links useful or interesting and i hope you do too 😊
 
 ## W00
