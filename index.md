@@ -7,6 +7,6 @@ Hello! My name is Serima and this is my first ever GitHub Page. Yay! I'm a compu
 ### Contents
 
 * [My OS212 Repository](https://github.com/serimanrnsa/os212)
-* [My Log](os212/TXT/mylog.txt)
+* [My Log](/os212/TXT/mylog.txt)
 * [LINKS](/os212/LINKS 
   "LINKS")
