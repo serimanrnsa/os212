@@ -32,3 +32,11 @@ ZCZC W01  60 L06 Dress up GitHub Page
 ZCZC W01  20 L07 Update this log
 ZCZC W01  60 L18 Practice some regex, grep, and awk
 ZCZC W01  30 L19 Skim read texbook
+ZCZC W02  20 L22 Quiz
+ZCZC W02  80 L02 Zoom
+ZCZC W02  10 L09 Generate a GnuPG KEY PAIR
+ZCZC W02  02 L09 List current GnuPG KEYS
+ZCZC W02  30 L24 Fixing something in .bash_profile and .bash_aliases
+ZCZC W02  10 L09 Import OS public key
+ZCZC W02  05 L09 Sign OS public key
+ZCZC W02  10 L09 Export my public key
