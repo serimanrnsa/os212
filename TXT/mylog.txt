@@ -36,10 +36,13 @@ ZCZC W02  20 L22 Quiz
 ZCZC W02  80 L02 Zoom
 ZCZC W02  10 L09 Generate a GnuPG KEY PAIR
 ZCZC W02  02 L09 List current GnuPG KEYS
-ZCZC W02  30 L24 Fixing something in .bash_profile and .bash_aliases
+ZCZC W02  30 L24 Fix something in .bash_profile and .bash_aliases
 ZCZC W02  10 L09 Import OS public key
 ZCZC W02  05 L09 Sign OS public key
 ZCZC W02  10 L09 Export my public key
 ZCZC W02  22 L02 Zoom
 ZCZC W02  30 L09 Rank my peer's links
 ZCZC W02  10 L09 Create myrank.txt and push to github
+ZCZC W02  10 L09 Delete all gnu keys to make a new one with github email and real name
+ZCZC W02  05 L09 Import and sign OS public key again
+ZCZC W02  15 L09 Copy myscript.sh, run it, and push to github
