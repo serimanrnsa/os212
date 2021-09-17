@@ -40,3 +40,6 @@ ZCZC W02  30 L24 Fixing something in .bash_profile and .bash_aliases
 ZCZC W02  10 L09 Import OS public key
 ZCZC W02  05 L09 Sign OS public key
 ZCZC W02  10 L09 Export my public key
+ZCZC W02  22 L02 Zoom
+ZCZC W02  30 L09 Rank my peer's links
+ZCZC W02  10 L09 Create myrank.txt and push to github
