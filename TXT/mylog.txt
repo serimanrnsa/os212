@@ -40,9 +40,12 @@ ZCZC W02  30 L24 Fix something in .bash_profile and .bash_aliases
 ZCZC W02  10 L09 Import OS public key
 ZCZC W02  05 L09 Sign OS public key
 ZCZC W02  10 L09 Export my public key
-ZCZC W02  22 L02 Zoom
+ZCZC W02  22 L02 Zoom QnA
 ZCZC W02  30 L09 Rank my peer's links
 ZCZC W02  10 L09 Create myrank.txt and push to github
 ZCZC W02  10 L09 Delete all gnu keys to make a new one with github email and real name
 ZCZC W02  05 L09 Import and sign OS public key again
 ZCZC W02  15 L09 Copy myscript.sh, run it, and push to github
+ZCZC W02  40 L21 Learn and practice copying folders, copying contents of folders, making and deleting folders and file
+ZCZC W02  60 L09 Learn and run some demos from W00 and W01
+
