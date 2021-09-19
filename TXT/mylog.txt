@@ -48,4 +48,9 @@ ZCZC W02  05 L09 Import and sign OS public key again
 ZCZC W02  15 L09 Copy myscript.sh, run it, and push to github
 ZCZC W02  40 L21 Learn and practice copying folders, copying contents of folders, making and deleting folders and file
 ZCZC W02  60 L09 Learn and run some demos from W00 and W01
-
+ZCZC W02  60 L81 Finish an audiobook
+ZCZC W02  60 L73 Finally finish Celeste chapter 4 B-side and play a little bit of chapter 5 B-side
+ZCZC W02 135 L09 Watch Cyber Security Introduction part 1 and 2
+ZCZC W02  60 L09 Read some textbook
+ZCZC W02  60 L09 Update links on GitHub page
+ZCZC W02  10 L09 Update this log
