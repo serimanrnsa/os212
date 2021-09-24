@@ -54,3 +54,13 @@ ZCZC W02 135 L09 Watch Cyber Security Introduction part 1 and 2
 ZCZC W02  60 L09 Read some textbook
 ZCZC W02  60 L09 Update links on GitHub page
 ZCZC W02  10 L09 Update this log
+ZCZC W03  20 L22 Quiz
+ZCZC W03  80 L02 Zoom
+ZCZC W03  05 L14 Check if .bash_aliases is up to date
+ZCZC W03 120 L73 Finish Celeste chapter 5 B-side
+ZCZC W03  90 L15 Add/create an extra virtual disk
+ZCZC W03  60 L17 Review my peer's links
+ZCZC W03  20 L19 Update myscript.sh, run it, and push to GitHub
+ZCZC W03 150 L12 Try W02 and W03 demos
+ZCZC W03  10 L18 Update this log
+ZCZC W03  10 L19 Run myscript.sh and push to GitHub again
