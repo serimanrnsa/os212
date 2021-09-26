@@ -6,7 +6,7 @@ permalink: /LINKS/
 
 | [HOME](https://serimanrnsa.github.io/os212/) | [LOG](https://serimanrnsa.github.io/os212/TXT/mylog.txt) | [GITHUB](https://github.com/serimanrnsa/os212) |
 
-### I find these links useful or interesting and i hope you do too 😊
+### I find these links useful and/or interesting and i hope you do too 😊
 
 1. [Markdown Crash Course](https://youtu.be/HUBNt18RFbo)<br>
     This video is the first thing that came to mind because it helped a lot in the making of this GitHub Page. It teaches the very basic of Markdown to help build a simple page like the one you're at right now. 😄
@@ -22,5 +22,12 @@ permalink: /LINKS/
 
 1. [A Pretty Good episode](https://youtu.be/E7w_v9J7iOc)<br>
     This is unrelated to OS (sorry) but you might find it interesting.
+
+1. [Linux File System Explained 📁](https://youtu.be/HbgzrKJvDRw)<br>
+    This video explains the file system in Linux. This is great especially for Windows users who are trying out Linux for the first time.
+
+1. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More 📁](https://youtu.be/_h30HBYxtws)<br>
+    This video explains file systems across different OS and drives, their similarities, and their differences.
+
 
 This page is in progress... 🚧
