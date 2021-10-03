@@ -68,3 +68,16 @@ ZCZC W03  10 L19 Run myscript.sh and push to GitHub again
 ZCZC W03 180 L11 Read textbook
 ZCZC W03  60 L16 Update links on GitHub Page
 ZCZC W03  60 L13 Try midterm problems
+ZCZC W04  20 L22 Quiz
+ZCZC W04  80 L02 Zoom
+ZCZC W04 120 L73 Finish Celeste chapter 6 B-side
+ZCZC W04  20 L14 Install Package List 2
+ZCZC W04  30 L15 Fetch and extract file "WEEK04.tar.bz2.asc"
+ZCZC W04  35 L02 Zoom QnA and W04 demo explanation
+ZCZC W04  80 L11 Read textbook
+ZCZC W04 180 L12 Try and learn W04 demos
+ZCZC W04  60 L01 Post to OS forum
+ZCZC W04  60 L17 Review my peer's links
+ZCZC W04  20 L18 Update this log
+ZCZC W04  05 L19 Run myscript.sh and push to Github
+
