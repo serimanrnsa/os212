@@ -80,4 +80,5 @@ ZCZC W04  60 L01 Post to OS forum
 ZCZC W04  60 L17 Review my peer's links
 ZCZC W04  20 L18 Update this log
 ZCZC W04  05 L19 Run myscript.sh and push to Github
-
+ZCZC W04  90 L13 Try midterm problems
+ZCZC W04  60 L16 Update links on Github Page
