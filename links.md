@@ -28,6 +28,12 @@ permalink: /LINKS/
 
 1. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More 📁](https://youtu.be/_h30HBYxtws)<br>
     This video explains file systems across different OS and drives, their similarities, and their differences.
+    
+1. [Virtual Memory Explanation](https://youtu.be/2quKyPnUShQ)<br>
+    I really like this explanation of week 4's topic: virtual memory.
+    
+1. [Use After Free Vulnerability](https://6point6.co.uk/insights/common-software-vulnerabilities-part-ii-explaining-the-use-after-free/)<br>
+    In week 4, there was a few questions on the course forum and I looked here for the answers. It explains what UAF is and why it is a vulnerability that can be used for malicious reasons.
 
 
 This page is in progress... 🚧
