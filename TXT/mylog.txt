@@ -82,3 +82,10 @@ ZCZC W04  20 L18 Update this log
 ZCZC W04  05 L19 Run myscript.sh and push to Github
 ZCZC W04  90 L13 Try midterm problems
 ZCZC W04  60 L16 Update links on Github Page
+ZCZC W05  20 L22 Quiz
+ZCZC W05  90 L02 Zoom
+ZCZC W05  30 L14 Set base memory to 20% above crash threshold
+ZCZC W05  90 L14 Fetch and extract this week's tarball and modify mymemory2.c and then run  script and copy the result file
+ZCZC W05  60 L17 Rank my peer's links
+ZCZC W05  20 L18 Update this log
+ZCZC W05  10 L19 Submit this week's assignments progress
