@@ -35,5 +35,11 @@ permalink: /LINKS/
 1. [Use After Free Vulnerability](https://6point6.co.uk/insights/common-software-vulnerabilities-part-ii-explaining-the-use-after-free/)<br>
     In week 4, there was a few questions on the course forum and I looked here for the answers. It explains what UAF is and why it is a vulnerability that can be used for malicious reasons.
 
+1. [Page Replacement Algorithm: Optimal](https://youtu.be/q2BpMvPhhrY)<br>
+    This video is amazing. I was very confused as to how the optimal algorithm works when I was reading the textbook so I scoured through Youtube for additional explanation and I found this and now I'm not confused anymore. 😄
+
+1. [OS Course Youtube Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)<br>
+    This is playlist containing the last video on this list and it is a GODSENT. Most if not all of OS material is in there. It is partly in Hindi though I think, so consider yourself warned.
+
 
 This page is in progress... 🚧
