@@ -18,6 +18,7 @@ ZCZC W00  20 L06 Read up on markdown
 ZCZC W00  30 L13 Scrap all html and replace with markdown
 ZCZC W00  60 L02 Zoom
 ZCZC W00 150 L15 Do more reading assignment
+
 ZCZC W01  05 L22 Quiz
 ZCZC W01  80 L02 Zoom
 ZCZC W01  60 L08 Asistensi
@@ -32,6 +33,7 @@ ZCZC W01  60 L06 Dress up GitHub Page
 ZCZC W01  20 L07 Update this log
 ZCZC W01  60 L18 Practice some regex, grep, and awk
 ZCZC W01  30 L19 Skim read texbook
+
 ZCZC W02  20 L22 Quiz
 ZCZC W02  80 L02 Zoom
 ZCZC W02  10 L09 Generate a GnuPG KEY PAIR
@@ -54,6 +56,7 @@ ZCZC W02 135 L09 Watch Cyber Security Introduction part 1 and 2
 ZCZC W02  60 L09 Read some textbook
 ZCZC W02  60 L09 Update links on GitHub page
 ZCZC W02  10 L09 Update this log
+
 ZCZC W03  20 L22 Quiz
 ZCZC W03  80 L02 Zoom
 ZCZC W03  05 L14 Check if .bash_aliases is up to date
@@ -68,6 +71,7 @@ ZCZC W03  10 L19 Run myscript.sh and push to GitHub again
 ZCZC W03 180 L11 Read textbook
 ZCZC W03  60 L16 Update links on GitHub Page
 ZCZC W03  60 L13 Try midterm problems
+
 ZCZC W04  20 L22 Quiz
 ZCZC W04  80 L02 Zoom
 ZCZC W04 120 L73 Finish Celeste chapter 6 B-side
@@ -82,6 +86,7 @@ ZCZC W04  20 L18 Update this log
 ZCZC W04  05 L19 Run myscript.sh and push to Github
 ZCZC W04  90 L13 Try midterm problems
 ZCZC W04  60 L16 Update links on Github Page
+
 ZCZC W05  20 L22 Quiz
 ZCZC W05  90 L02 Zoom
 ZCZC W05  30 L14 Set base memory to 20% above crash threshold
@@ -94,3 +99,14 @@ ZCZC W05  60 L15 Update links
 ZCZC W05  80 L11 Read textbook
 ZCZC W05  30 L12 Try this week's demos
 ZCZC W05  60 L13 Try midterm problems
+
+ZCZC W06  20 L22 Quiz
+ZCZC W06  10 L00 W06 Contact on os1.cs.ui.ac.id
+ZCZC W06  30 L14 Fetch this week's tarball and move the result to RESULT folder
+ZCZC W06 100 L02 Zoom
+ZCZC W06 120 L12 Learn this week's demos
+ZCZC W06  90 L11 Read textbook
+ZCZC W06  60 L17 Rank my peer's links
+ZCZC W06  30 L18 Update this log
+ZCZC W06  90 L13 Try midterm problems
+ZCZC W06  10 L19 Submit assignments progress
