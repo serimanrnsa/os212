@@ -40,6 +40,12 @@ permalink: /LINKS/
 
 1. [OS Course Youtube Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)<br>
     This is playlist containing the last video on this list and it is a GODSENT. Most if not all of OS material is in there. It is partly in Hindi though I think, so consider yourself warned.
+    
+1. [fork() and exec()](https://youtu.be/IFEFVXvjiHY)<br>
+    A video about fork() and exec() to help you understand it.
+    
+1. [A song recommendation](https://youtu.be/LgNTp8hjjWA)<br>
+    Another unrelated link mostly because I'm running out of stuff to put here so here's a song that you might love (or hate completely). This song, I think, is a soundtrack for Samurai Champloo. I say this because I haven't watched it myself and I know this because my brother watched it.
 
 
 This page is in progress... 🚧
