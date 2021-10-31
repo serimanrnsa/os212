@@ -110,3 +110,4 @@ ZCZC W06  60 L17 Rank my peer's links
 ZCZC W06  30 L18 Update this log
 ZCZC W06  90 L13 Try midterm problems
 ZCZC W06  10 L19 Submit assignments progress
+ZCZC W06  20 L16 Update links.md
