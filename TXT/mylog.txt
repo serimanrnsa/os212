@@ -118,3 +118,8 @@ ZCZC W07  40 L02 Zoom
 ZCZC W07 100 L02 Zoom
 ZCZC W07  90 L14 Fetch tarball, get W07 result files from tarball and os1.cs.ui.ac.id, and finally copy to RESULT
 ZCZC W07  20 L18 Update this log
+ZCZC W07 105 L00 Watch videos given by Mr. Anwar
+ZCZC W07  40 L17 Rank my peer's links
+ZCZC W07 180 L12 Try and learn this week's demos
+ZCZC W07  30 L13 Try midterm problems
+ZCZC W07  60 L11 Read textbook
