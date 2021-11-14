@@ -123,3 +123,16 @@ ZCZC W07  40 L17 Rank my peer's links
 ZCZC W07 180 L12 Try and learn this week's demos
 ZCZC W07  30 L13 Try midterm problems
 ZCZC W07  60 L11 Read textbook
+
+ZCZC W08  20 L22 Quiz
+ZCZC W08  10 L00 W08 Contact on os1.cs.ui.ac.id
+ZCZC W08  10 L02 Zoom
+ZCZC W08 100 L02 Zoom
+ZCZC W08 120 L14 Fetch tarball and do chapter 1-4 LFS
+ZCZC W08 210 L15 Do chapter 5 LFS
+ZCZC W08  90 L11 Read textbook
+ZCZC W08 120 L00 Watch videos from Mr. Anwar
+ZCZC W08  20 L19 Update this log
+ZCZC W08 100 Try midterm problems
+ZCZC W08 100 Try this week's demos
+ZCZC W08  30 Rank my peer's links
